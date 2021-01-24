@@ -1,0 +1,17 @@
+#ifndef __FPGA_DOT_DEFINE__
+#define __FPGA_DOT_DEFINE__
+
+unsigned char fpga_dot[9] = {0x00, 0x20, 0x08, 0x02, 0x28, 0x22, 0x0a, 0x2a, 0x7f};
+unsigned char *fpga_000 = &fpga_dot[0];
+unsigned char *fpga_100 = &fpga_dot[1];
+unsigned char *fpga_010 = &fpga_dot[2];
+unsigned char *fpga_001 = &fpga_dot[3];
+unsigned char *fpga_110 = &fpga_dot[4];
+unsigned char *fpga_101 = &fpga_dot[5];
+unsigned char *fpga_011 = &fpga_dot[6];
+unsigned char *fpga_111 = &fpga_dot[7];
+unsigned char *fpga_full = &fpga_dot[8]; //to make note, define each state.
+
+int dot[3][7] = {{0,0,0,0,0,0,0}, {0,0,0,0,0,0,0}, {0,0,0,0,0,0,0}}; // used in dot thread.
+
+#endif
