@@ -1,5 +1,7 @@
 # Embedded_rhythm_game
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/selpMuCNNnA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 1. 프로젝트 주제 : 미니 리듬 게임
 
 ## 2. 개요
