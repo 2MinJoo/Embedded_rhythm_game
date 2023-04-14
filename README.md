@@ -1,6 +1,7 @@
 # Embedded_rhythm_game
 
 [![preview](https://img.youtube.com/vi/selpMuCNNnA/0.jpg)](https://youtu.be/selpMuCNNnA?t=0s)
+[영상입니다. 누르면 유튜브로 연결됩니다.]
 
 ## 1. 프로젝트 주제 : 미니 리듬 게임
 
